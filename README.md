@@ -61,6 +61,4 @@ The program generates:
 * Histogram distribution
 * Box plot analysis
 
-## Author
 
-Santhosh Kumar
